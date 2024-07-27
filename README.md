@@ -31,7 +31,7 @@ pip install -r requirements.txt
    - Status da Bateria: Percentual de carga da bateria.
    - Carregando: Indica se a bateria está sendo carregada ou não.
    - Tempo Restante: Tempo estimado restante até a bateria esgotar ou carregar completamente.
-   - Discos: Detalhes sobre cada disco no sistema, incluindo tamanho total, espaço usado, espaço livre e sistema de arquivos.
+   - Discos: Detalhes sobre tamanho total, espaço usado, espaço livre e sistema de arquivos.
    - Interfaces de Rede: Endereços IP e máscaras de sub-rede para cada interface de rede no sistema.
    - Data e Hora Local: Data e hora atuais do sistema.
    - RPM do Cooler: Rotação atual do cooler do sistema em RPM, se disponível.
